@@ -16,7 +16,7 @@
 _經營粉專**大學生的華爾街日記**_,2021 年 3 月-2022 年2 月
 目前粉專已經停止更新，但未來有機會還會繼續經營
 **以前的部落客文章**
-拜託幫我的文章按個讚，雖然他應該不會再更新了[平時看美股的好用工具—FINVIZ.com]([https://vocus.cc/article/60881874fd89780001319fea])
+拜託幫我的文章按個讚，雖然他應該不會再更新了：[平時看美股的好用工具—FINVIZ.com](https://vocus.cc/article/60881874fd89780001319fea)
 
 接待過日本學生，當過日文社社長
 
@@ -36,7 +36,7 @@ _經營粉專**大學生的華爾街日記**_,2021 年 3 月-2022 年2 月
 - [ ] 做一個discord機器人
 
 #### 我的財金粉專
-[大學生的華爾街日記]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.facebook.com/daipong0723))
+[大學生的華爾街日記](https://www.facebook.com/daipong0723))
 
 #### 可愛的貓貓
 ![貓貓](https://myoctocat.com/assets/images/base-octocat.svg)
