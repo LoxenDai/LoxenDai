@@ -1,17 +1,42 @@
-### 你好，我是戴胖
-### 我喜歡別人叫我Loxen 👋
+## 嗨~歡迎來到我的自介 👋
+### 我叫戴柏誠，身邊的朋友都叫我*Loxen*
+我來自台南，在台中念書
+希望未來能去上海交換
+#### 以下是我的在學經歷
+國立中央大學,**主修,財務金融學系**,學士,2020 年9月-2024 年6月
 
-<!--
-**LoxenDai/LoxenDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+國立中央大學,**輔修,資訊管理學系**,學士,2020 年9月-2024 年6月
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+國立中央大學,學分學程, **人工智慧跨域應用**,學士,2020 年9月-2024 年6月
+
+
+#### 以下是我的個人經歷
+_經營粉專**大學生的華爾街日記**_,2021 年 3 月-2022 年2 月
+目前粉專已經停止更新，但未來有機會還會繼續經營
+**以前的部落客文章**
+拜託幫我的文章按個讚，雖然他應該不會再更新了[平時看美股的好用工具—FINVIZ.com]([https://www.facebook.com/NCUFinAandCA/](https://vocus.cc/article/60881874fd89780001319fea)).
+
+接待過日本學生，當過日文社社長
+
+
+#### 以下是我的興趣
+- 打遊戲:video_game:
+  1.Apex
+  2.戰鬥方塊劇場
+- 看棒球比賽:baseball:
+  -我最支持富邦悍將
+- 到處走走吃吃:poultry_leg:
+
+#### 人生目標
+- [x] 學會開車、騎車
+- [ ] 去上海交換
+- [ ] 交一個男朋友
+- [ ] 做一個discord機器人
+
+#### 我的財金粉專
+[大學生的華爾街日記]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.facebook.com/daipong0723))
+
+#### 可愛的貓貓
+![貓貓](https://myoctocat.com/assets/images/base-octocat.svg)
