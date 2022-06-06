@@ -36,7 +36,7 @@ _經營粉專**大學生的華爾街日記**_,2021 年 3 月-2022 年2 月
 - [ ] 做一個discord機器人
 
 #### 我的財金粉專
-[大學生的華爾街日記](https://www.facebook.com/daipong0723))
+[大學生的華爾街日記](https://www.facebook.com/daipong0723)
 
 #### 可愛的貓貓
 ![貓貓](https://myoctocat.com/assets/images/base-octocat.svg)
