@@ -1,4 +1,5 @@
-### Hi there 👋
+### 你好，我是戴胖
+### 我喜歡別人叫我Loxen 👋
 
 <!--
 **LoxenDai/LoxenDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
